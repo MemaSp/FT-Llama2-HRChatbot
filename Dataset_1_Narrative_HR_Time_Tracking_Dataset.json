@@ -1,0 +1,1078 @@
+[
+    {
+        "context": "User Noah has been involved in the following projects: Spectrum where they worked week1: 11hrs, week2: 21hrs, week3: 20hrs. Harmony where they worked week1: 21hrs, week2: 12hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Voyage?",
+        "response": "Mason worked on Pioneer for a total of 83 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Nexus where they worked week1: 19hrs, week2: 23hrs. Nexus where they worked week1: 30hrs, week2: 27hrs. ",
+        "instruction": "Can you provide the total hours Ethan worked on Harmony?",
+        "response": "Sophia worked on Vertex for a total of 24 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Vertex where they worked week1: 10hrs, week2: 27hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Harmony?",
+        "response": "James worked on Vertex for a total of 28 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Pioneer where they worked week1: 17hrs, week2: 29hrs, week3: 25hrs. Spectrum where they worked week1: 27hrs. ",
+        "instruction": "Can you provide the total hours Emma worked on Harmony?",
+        "response": "Mia worked on Horizon for a total of 68 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Harmony where they worked week1: 19hrs. Nexus where they worked week1: 17hrs. ",
+        "instruction": "Can you provide the total hours Sophia worked on Pioneer?",
+        "response": "Mia worked on Pioneer for a total of 70 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Harmony where they worked week1: 26hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Pioneer?",
+        "response": "Ava worked on Nexus for a total of 16 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Nexus where they worked week1: 29hrs, week2: 30hrs. Vertex where they worked week1: 15hrs, week2: 16hrs, week3: 11hrs. ",
+        "instruction": "Can you provide the total hours Liam worked on Vertex?",
+        "response": "James worked on Vertex for a total of 12 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Harmony where they worked week1: 14hrs, week2: 21hrs, week3: 24hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Vertex?",
+        "response": "Mason worked on Zenith for a total of 36 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mason has been involved in the following projects: Spectrum where they worked week1: 26hrs, week2: 19hrs, week3: 21hrs. Quest where they worked week1: 25hrs. ",
+        "instruction": "Can you provide the total hours Emma worked on Pioneer?",
+        "response": "Ethan worked on Voyage for a total of 76 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Harmony where they worked week1: 21hrs, week2: 23hrs, week3: 19hrs. Harmony where they worked week1: 30hrs, week2: 28hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Voyage?",
+        "response": "Olivia worked on Harmony for a total of 15 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Harmony where they worked week1: 15hrs, week2: 21hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Spectrum?",
+        "response": "Ava worked on Spectrum for a total of 33 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Vertex where they worked week1: 22hrs, week2: 28hrs, week3: 19hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Zenith?",
+        "response": "Emma worked on Vertex for a total of 78 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Vertex where they worked week1: 27hrs, week2: 10hrs. Vertex where they worked week1: 29hrs, week2: 28hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Harmony?",
+        "response": "Olivia worked on Harmony for a total of 66 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Summit where they worked week1: 30hrs, week2: 30hrs. Nexus where they worked week1: 17hrs, week2: 11hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Nexus?",
+        "response": "Sophia worked on Harmony for a total of 19 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mason has been involved in the following projects: Voyage where they worked week1: 29hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Horizon?",
+        "response": "Ava worked on Harmony for a total of 48 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mason has been involved in the following projects: Horizon where they worked week1: 16hrs, week2: 22hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Spectrum?",
+        "response": "Sophia worked on Quest for a total of 70 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Zenith where they worked week1: 23hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Voyage?",
+        "response": "Emma worked on Nexus for a total of 70 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Voyage where they worked week1: 25hrs, week2: 28hrs, week3: 27hrs. Voyage where they worked week1: 14hrs, week2: 17hrs, week3: 21hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Zenith?",
+        "response": "Olivia worked on Quest for a total of 32 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Zenith where they worked week1: 17hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Vertex?",
+        "response": "Ethan worked on Nexus for a total of 62 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Nexus where they worked week1: 18hrs. Horizon where they worked week1: 22hrs, week2: 11hrs. ",
+        "instruction": "Can you provide the total hours Emma worked on Spectrum?",
+        "response": "Mason worked on Summit for a total of 31 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Nexus where they worked week1: 28hrs. Pioneer where they worked week1: 18hrs, week2: 12hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Zenith?",
+        "response": "Ava worked on Spectrum for a total of 56 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Pioneer where they worked week1: 25hrs, week2: 12hrs, week3: 20hrs. Summit where they worked week1: 18hrs, week2: 24hrs, week3: 18hrs. ",
+        "instruction": "Can you provide the total hours James worked on Nexus?",
+        "response": "Olivia worked on Harmony for a total of 81 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Spectrum where they worked week1: 13hrs, week2: 11hrs, week3: 14hrs. ",
+        "instruction": "Can you provide the total hours Emma worked on Nexus?",
+        "response": "Olivia worked on Pioneer for a total of 54 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Pioneer where they worked week1: 12hrs, week2: 23hrs. Summit where they worked week1: 10hrs, week2: 14hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Zenith?",
+        "response": "Mason worked on Spectrum for a total of 12 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Harmony where they worked week1: 19hrs, week2: 21hrs, week3: 14hrs. ",
+        "instruction": "Can you provide the total hours Sophia worked on Voyage?",
+        "response": "Emma worked on Zenith for a total of 28 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Vertex where they worked week1: 23hrs, week2: 23hrs, week3: 21hrs. Harmony where they worked week1: 28hrs, week2: 25hrs, week3: 23hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Pioneer?",
+        "response": "Sophia worked on Voyage for a total of 71 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Zenith where they worked week1: 25hrs, week2: 24hrs. Horizon where they worked week1: 25hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Voyage?",
+        "response": "Ava worked on Zenith for a total of 60 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Nexus where they worked week1: 18hrs, week2: 28hrs, week3: 11hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Vertex?",
+        "response": "James worked on Quest for a total of 10 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Quest where they worked week1: 30hrs, week2: 12hrs, week3: 21hrs. Nexus where they worked week1: 12hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Spectrum?",
+        "response": "Noah worked on Summit for a total of 15 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Zenith where they worked week1: 22hrs, week2: 26hrs. Horizon where they worked week1: 13hrs, week2: 23hrs. ",
+        "instruction": "Can you provide the total hours James worked on Spectrum?",
+        "response": "Mia worked on Vertex for a total of 52 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Spectrum where they worked week1: 10hrs. Voyage where they worked week1: 15hrs, week2: 18hrs, week3: 20hrs. ",
+        "instruction": "Can you provide the total hours James worked on Harmony?",
+        "response": "James worked on Harmony for a total of 14 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Horizon where they worked week1: 30hrs, week2: 14hrs, week3: 25hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Summit?",
+        "response": "Sophia worked on Quest for a total of 68 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Voyage where they worked week1: 11hrs. Nexus where they worked week1: 25hrs, week2: 30hrs, week3: 21hrs.",
+        "instruction": "Can you provide the total hours James worked on Nexus?",
+        "response": "James worked on Nexus for a total of 76 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Nexus where they worked week1: 28hrs, week2: 26hrs, week3: 23hrs.",
+        "instruction": "Can you provide the total hours Noah worked on Nexus?",
+        "response": "Noah worked on Nexus for a total of 77 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Nexus where they worked week1: 28hrs.",
+        "instruction": "Can you provide the total hours Olivia worked on Nexus?",
+        "response": "Olivia worked on Nexus for a total of 28 hours over 1 week.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Horizon where they worked week1: 22hrs, week2: 12hrs, week3: 20hrs. Horizon where they worked week1: 20hrs, week2: 13hrs, week3: 23hrs.",
+        "instruction": "Can you provide the total hours James worked on Horizon?",
+        "response": "James worked on Horizon for a total of 110 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Pioneer where they worked week1: 19hrs. Nexus where they worked week1: 28hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Noah worked on Pioneer?",
+        "response": "Noah worked on Pioneer for a total of 47 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Summit where they worked week1: 28hrs, week2: 13hrs, week3: 15hrs. Nexus where they worked week1: 20hrs.",
+        "instruction": "Can you provide the total hours Ava worked on Summit?",
+        "response": "Ava worked on Summit for a total of 56 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Summit where they worked week1: 13hrs.",
+        "instruction": "Can you provide the total hours Olivia worked on Summit?",
+        "response": "Olivia worked on Summit for a total of 13 hours over 1 week.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Vertex where they worked week1: 18hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Liam worked on Vertex?",
+        "response": "Liam worked on Vertex for a total of 37 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Vertex where they worked week1: 17hrs, week2: 15hrs, week3: 17hrs.",
+        "instruction": "Can you provide the total hours Ava worked on Vertex?",
+        "response": "Ava worked on Vertex for a total of 49 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Nexus where they worked week1: 11hrs. Quest where they worked week1: 28hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours James worked on Quest?",
+        "response": "James worked on Quest for a total of 47 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mason has been involved in the following projects: Zenith where they worked week1: 19hrs, week2: 18hrs, week3: 19hrs. Summit where they worked week1: 25hrs, week2: 20hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Quest?",
+        "response": "Ava worked on Quest for a total of 87 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mason has been involved in the following projects: Spectrum where they worked week1: 29hrs. Quest where they worked week1: 29hrs, week2: 23hrs, week3: 14hrs. ",
+        "instruction": "Can you provide the total hours Liam worked on Vertex?",
+        "response": "Ethan worked on Zenith for a total of 81 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Harmony where they worked week1: 23hrs, week2: 10hrs, week3: 30hrs. Zenith where they worked week1: 23hrs, week2: 28hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Horizon?",
+        "response": "Olivia worked on Harmony for a total of 64 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Horizon where they worked week1: 17hrs, week2: 19hrs. Zenith where they worked week1: 24hrs, week2: 14hrs, week3: 10hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Spectrum?",
+        "response": "Emma worked on Quest for a total of 34 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Zenith where they worked week1: 21hrs. Horizon where they worked week1: 21hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Nexus?",
+        "response": "Mia worked on Quest for a total of 83 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Harmony where they worked week1: 20hrs, week2: 21hrs, week3: 12hrs. ",
+        "instruction": "Can you provide the total hours Emma worked on Zenith?",
+        "response": "Noah worked on Quest for a total of 18 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Quest where they worked week1: 13hrs. ",
+        "instruction": "Can you provide the total hours Sophia worked on Spectrum?",
+        "response": "Olivia worked on Nexus for a total of 34 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Harmony where they worked week1: 14hrs, week2: 18hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Harmony?",
+        "response": "Liam worked on Horizon for a total of 51 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mason has been involved in the following projects: Zenith where they worked week1: 29hrs. Quest where they worked week1: 27hrs, week2: 25hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Pioneer?",
+        "response": "Olivia worked on Harmony for a total of 46 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Vertex where they worked week1: 18hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Nexus?",
+        "response": "Ava worked on Quest for a total of 78 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Spectrum where they worked week1: 15hrs, week2: 18hrs, week3: 11hrs. Vertex where they worked week1: 14hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Nexus?",
+        "response": "Mason worked on Vertex for a total of 50 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Harmony where they worked week1: 10hrs, week2: 26hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Horizon?",
+        "response": "James worked on Zenith for a total of 43 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Voyage where they worked week1: 20hrs, week2: 23hrs. ",
+        "instruction": "Can you provide the total hours Emma worked on Vertex?",
+        "response": "Mason worked on Spectrum for a total of 25 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Quest where they worked week1: 26hrs, week2: 19hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Horizon?",
+        "response": "Ava worked on Pioneer for a total of 82 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Pioneer where they worked week1: 23hrs. ",
+        "instruction": "Can you provide the total hours James worked on Summit?",
+        "response": "Mason worked on Quest for a total of 29 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Quest where they worked week1: 14hrs, week2: 26hrs. ",
+        "instruction": "Can you provide the total hours Sophia worked on Zenith?",
+        "response": "James worked on Quest for a total of 80 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Horizon where they worked week1: 14hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Voyage?",
+        "response": "Mia worked on Voyage for a total of 84 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Voyage where they worked week1: 28hrs. ",
+        "instruction": "Can you provide the total hours Sophia worked on Spectrum?",
+        "response": "Sophia worked on Summit for a total of 19 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Voyage where they worked week1: 20hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Quest?",
+        "response": "Ethan worked on Horizon for a total of 25 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Summit where they worked week1: 15hrs, week2: 23hrs, week3: 10hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Nexus?",
+        "response": "Emma worked on Spectrum for a total of 88 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Harmony where they worked week1: 22hrs, week2: 19hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Harmony?",
+        "response": "Mia worked on Vertex for a total of 25 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Nexus where they worked week1: 18hrs, week2: 14hrs. Quest where they worked week1: 13hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Pioneer?",
+        "response": "Noah worked on Vertex for a total of 15 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Harmony where they worked week1: 22hrs, week2: 16hrs, week3: 10hrs. Quest where they worked week1: 30hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Nexus?",
+        "response": "Emma worked on Quest for a total of 84 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Nexus where they worked week1: 24hrs, week2: 30hrs. Horizon where they worked week1: 10hrs, week2: 13hrs, week3: 22hrs. ",
+        "instruction": "Can you provide the total hours Sophia worked on Harmony?",
+        "response": "Noah worked on Harmony for a total of 82 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Voyage where they worked week1: 25hrs, week2: 24hrs. Pioneer where they worked week1: 28hrs, week2: 23hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Vertex?",
+        "response": "Mason worked on Nexus for a total of 49 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Nexus where they worked week1: 27hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Summit?",
+        "response": "Ava worked on Spectrum for a total of 42 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Summit where they worked week1: 12hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Pioneer?",
+        "response": "Ava worked on Quest for a total of 29 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Summit where they worked week1: 14hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Harmony?",
+        "response": "Emma worked on Summit for a total of 34 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Summit where they worked week1: 29hrs, week2: 12hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Pioneer?",
+        "response": "Ethan worked on Pioneer for a total of 30 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Spectrum where they worked week1: 13hrs, week2: 12hrs, week3: 30hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Voyage?",
+        "response": "Ethan worked on Horizon for a total of 63 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Horizon where they worked week1: 27hrs. Zenith where they worked week1: 18hrs, week2: 14hrs, week3: 27hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Summit?",
+        "response": "James worked on Horizon for a total of 48 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Voyage where they worked week1: 14hrs. Horizon where they worked week1: 25hrs. ",
+        "instruction": "Can you provide the total hours James worked on Horizon?",
+        "response": "Sophia worked on Nexus for a total of 42 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Harmony where they worked week1: 17hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Quest?",
+        "response": "Emma worked on Vertex for a total of 12 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Summit where they worked week1: 29hrs, week2: 28hrs, week3: 12hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Zenith?",
+        "response": "Noah worked on Spectrum for a total of 28 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Zenith where they worked week1: 17hrs, week2: 20hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Voyage?",
+        "response": "Mason worked on Spectrum for a total of 32 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Spectrum where they worked week1: 29hrs, week2: 10hrs, week3: 16hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Spectrum?",
+        "response": "Ava worked on Quest for a total of 66 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Summit where they worked week1: 18hrs. Voyage where they worked week1: 18hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Pioneer?",
+        "response": "Noah worked on Zenith for a total of 33 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Harmony where they worked week1: 20hrs, week2: 30hrs. Quest where they worked week1: 16hrs, week2: 26hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Horizon?",
+        "response": "Mason worked on Quest for a total of 30 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Horizon where they worked week1: 24hrs, week2: 24hrs, week3: 10hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Voyage?",
+        "response": "Mason worked on Horizon for a total of 88 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Vertex where they worked week1: 16hrs, week2: 20hrs. ",
+        "instruction": "Can you provide the total hours Emma worked on Vertex?",
+        "response": "Ava worked on Nexus for a total of 26 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Voyage where they worked week1: 11hrs. Nexus where they worked week1: 25hrs, week2: 30hrs, week3: 21hrs.",
+        "instruction": "Can you provide the total hours James worked on Nexus?",
+        "response": "James worked on Nexus for a total of 76 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Nexus where they worked week1: 28hrs, week2: 26hrs, week3: 23hrs.",
+        "instruction": "Can you provide the total hours Noah worked on Nexus?",
+        "response": "Noah worked on Nexus for a total of 77 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Nexus where they worked week1: 28hrs.",
+        "instruction": "Can you provide the total hours Olivia worked on Nexus?",
+        "response": "Olivia worked on Nexus for a total of 28 hours over 1 week.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Horizon where they worked week1: 22hrs, week2: 12hrs, week3: 20hrs. Horizon where they worked week1: 20hrs, week2: 13hrs, week3: 23hrs.",
+        "instruction": "Can you provide the total hours James worked on Horizon?",
+        "response": "James worked on Horizon for a total of 110 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Pioneer where they worked week1: 19hrs. Nexus where they worked week1: 28hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Noah worked on Pioneer?",
+        "response": "Noah worked on Pioneer for a total of 47 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Summit where they worked week1: 28hrs, week2: 13hrs, week3: 15hrs. Nexus where they worked week1: 20hrs.",
+        "instruction": "Can you provide the total hours Ava worked on Summit?",
+        "response": "Ava worked on Summit for a total of 56 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Summit where they worked week1: 13hrs.",
+        "instruction": "Can you provide the total hours Olivia worked on Summit?",
+        "response": "Olivia worked on Summit for a total of 13 hours over 1 week.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Vertex where they worked week1: 18hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Liam worked on Vertex?",
+        "response": "Liam worked on Vertex for a total of 37 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Vertex where they worked week1: 17hrs, week2: 15hrs, week3: 17hrs.",
+        "instruction": "Can you provide the total hours Ava worked on Vertex?",
+        "response": "Ava worked on Vertex for a total of 49 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Nexus where they worked week1: 11hrs. Quest where they worked week1: 28hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours James worked on Quest?",
+        "response": "James worked on Quest for a total of 47 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mason has been involved in the following projects: Zenith where they worked week1: 19hrs, week2: 18hrs, week3: 19hrs. Summit where they worked week1: 25hrs, week2: 20hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Quest?",
+        "response": "Ava worked on Quest for a total of 87 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mason has been involved in the following projects: Spectrum where they worked week1: 29hrs. Quest where they worked week1: 29hrs, week2: 23hrs, week3: 14hrs. ",
+        "instruction": "Can you provide the total hours Liam worked on Vertex?",
+        "response": "Ethan worked on Zenith for a total of 81 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Harmony where they worked week1: 23hrs, week2: 10hrs, week3: 30hrs. Zenith where they worked week1: 23hrs, week2: 28hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Horizon?",
+        "response": "Olivia worked on Harmony for a total of 64 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Horizon where they worked week1: 17hrs, week2: 19hrs. Zenith where they worked week1: 24hrs, week2: 14hrs, week3: 10hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Spectrum?",
+        "response": "Emma worked on Quest for a total of 34 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Zenith where they worked week1: 21hrs. Horizon where they worked week1: 21hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Nexus?",
+        "response": "Mia worked on Quest for a total of 83 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Harmony where they worked week1: 20hrs, week2: 21hrs, week3: 12hrs. ",
+        "instruction": "Can you provide the total hours Emma worked on Zenith?",
+        "response": "Noah worked on Quest for a total of 18 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Quest where they worked week1: 13hrs. ",
+        "instruction": "Can you provide the total hours Sophia worked on Spectrum?",
+        "response": "Olivia worked on Nexus for a total of 34 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Harmony where they worked week1: 14hrs, week2: 18hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Harmony?",
+        "response": "Liam worked on Horizon for a total of 51 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mason has been involved in the following projects: Zenith where they worked week1: 29hrs. Quest where they worked week1: 27hrs, week2: 25hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Pioneer?",
+        "response": "Olivia worked on Harmony for a total of 46 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Vertex where they worked week1: 18hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Nexus?",
+        "response": "Ava worked on Quest for a total of 78 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Spectrum where they worked week1: 15hrs, week2: 18hrs, week3: 11hrs. Vertex where they worked week1: 14hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Nexus?",
+        "response": "Mason worked on Vertex for a total of 50 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Harmony where they worked week1: 10hrs, week2: 26hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Horizon?",
+        "response": "James worked on Zenith for a total of 43 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Voyage where they worked week1: 20hrs, week2: 23hrs. ",
+        "instruction": "Can you provide the total hours Emma worked on Vertex?",
+        "response": "Mason worked on Spectrum for a total of 25 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Quest where they worked week1: 26hrs, week2: 19hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Horizon?",
+        "response": "Ava worked on Pioneer for a total of 82 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Pioneer where they worked week1: 23hrs. ",
+        "instruction": "Can you provide the total hours James worked on Summit?",
+        "response": "Mason worked on Quest for a total of 29 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Quest where they worked week1: 14hrs, week2: 26hrs. ",
+        "instruction": "Can you provide the total hours Sophia worked on Zenith?",
+        "response": "James worked on Quest for a total of 80 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Horizon where they worked week1: 14hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Voyage?",
+        "response": "Mia worked on Voyage for a total of 84 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Voyage where they worked week1: 28hrs. ",
+        "instruction": "Can you provide the total hours Sophia worked on Spectrum?",
+        "response": "Sophia worked on Summit for a total of 19 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Voyage where they worked week1: 20hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Quest?",
+        "response": "Ethan worked on Horizon for a total of 25 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Summit where they worked week1: 15hrs, week2: 23hrs, week3: 10hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Nexus?",
+        "response": "Emma worked on Spectrum for a total of 88 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Harmony where they worked week1: 22hrs, week2: 19hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Harmony?",
+        "response": "Mia worked on Vertex for a total of 25 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Nexus where they worked week1: 18hrs, week2: 14hrs. Quest where they worked week1: 13hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Pioneer?",
+        "response": "Noah worked on Vertex for a total of 15 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Harmony where they worked week1: 22hrs, week2: 16hrs, week3: 10hrs. Quest where they worked week1: 30hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Nexus?",
+        "response": "Emma worked on Quest for a total of 84 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Nexus where they worked week1: 24hrs, week2: 30hrs. Horizon where they worked week1: 10hrs, week2: 13hrs, week3: 22hrs. ",
+        "instruction": "Can you provide the total hours Sophia worked on Harmony?",
+        "response": "Noah worked on Harmony for a total of 82 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Voyage where they worked week1: 25hrs, week2: 24hrs. Pioneer where they worked week1: 28hrs, week2: 23hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Vertex?",
+        "response": "Mason worked on Nexus for a total of 49 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Nexus where they worked week1: 27hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Summit?",
+        "response": "Ava worked on Spectrum for a total of 42 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Summit where they worked week1: 12hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Pioneer?",
+        "response": "Ava worked on Quest for a total of 29 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Summit where they worked week1: 14hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Harmony?",
+        "response": "Emma worked on Summit for a total of 34 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Summit where they worked week1: 29hrs, week2: 12hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Pioneer?",
+        "response": "Ethan worked on Pioneer for a total of 30 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Spectrum where they worked week1: 13hrs, week2: 12hrs, week3: 30hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Voyage?",
+        "response": "Ethan worked on Horizon for a total of 63 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Horizon where they worked week1: 27hrs. Zenith where they worked week1: 18hrs, week2: 14hrs, week3: 27hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Summit?",
+        "response": "James worked on Horizon for a total of 48 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Voyage where they worked week1: 14hrs. Horizon where they worked week1: 25hrs. ",
+        "instruction": "Can you provide the total hours James worked on Horizon?",
+        "response": "Sophia worked on Nexus for a total of 42 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Harmony where they worked week1: 17hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Quest?",
+        "response": "Emma worked on Vertex for a total of 12 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Summit where they worked week1: 29hrs, week2: 28hrs, week3: 12hrs. ",
+        "instruction": "Can you provide the total hours Noah worked on Zenith?",
+        "response": "Noah worked on Spectrum for a total of 28 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Zenith where they worked week1: 17hrs, week2: 20hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Voyage?",
+        "response": "Mason worked on Spectrum for a total of 32 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Spectrum where they worked week1: 29hrs, week2: 10hrs, week3: 16hrs. ",
+        "instruction": "Can you provide the total hours Mason worked on Spectrum?",
+        "response": "Ava worked on Quest for a total of 66 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Summit where they worked week1: 18hrs. Voyage where they worked week1: 18hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Pioneer?",
+        "response": "Noah worked on Zenith for a total of 33 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Harmony where they worked week1: 20hrs, week2: 30hrs. Quest where they worked week1: 16hrs, week2: 26hrs. ",
+        "instruction": "Can you provide the total hours Olivia worked on Horizon?",
+        "response": "Mason worked on Quest for a total of 30 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Horizon where they worked week1: 24hrs, week2: 24hrs, week3: 10hrs. ",
+        "instruction": "Can you provide the total hours Ava worked on Voyage?",
+        "response": "Mason worked on Horizon for a total of 88 hours over 1 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Vertex where they worked week1: 16hrs, week2: 20hrs. ",
+        "instruction": "Can you provide the total hours Emma worked on Vertex?",
+        "response": "Ava worked on Nexus for a total of 26 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Harmony where they worked week1: 16hrs. ",
+        "instruction": "Can you provide the total hours Mia worked on Voyage?",
+        "response": "Mason worked on Harmony for a total of 89 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Olivia has been involved in the following projects: Summit where they worked week1: 13hrs.",
+        "instruction": "Can you provide the total hours Olivia worked on Summit?",
+        "response": "Olivia worked on Summit for a total of 13 hours over 1 week.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Liam has been involved in the following projects: Vertex where they worked week1: 18hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Liam worked on Vertex?",
+        "response": "Liam worked on Vertex for a total of 37 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ava has been involved in the following projects: Vertex where they worked week1: 17hrs, week2: 15hrs, week3: 17hrs.",
+        "instruction": "Can you provide the total hours Ava worked on Vertex?",
+        "response": "Ava worked on Vertex for a total of 49 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User James has been involved in the following projects: Nexus where they worked week1: 11hrs. Quest where they worked week1: 28hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours James worked on Quest?",
+        "response": "James worked on Quest for a total of 47 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emma has been involved in the following projects: Horizon where they worked week1: 14hrs, week2: 20hrs.",
+        "instruction": "Can you provide the total hours Emma worked on Horizon?",
+        "response": "Emma worked on Horizon for a total of 34 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Noah has been involved in the following projects: Summit where they worked week1: 15hrs, week2: 18hrs.",
+        "instruction": "Can you provide the total hours Noah worked on Summit?",
+        "response": "Noah worked on Summit for a total of 33 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Sophia has been involved in the following projects: Vertex where they worked week1: 12hrs, week2: 15hrs, week3: 19hrs.",
+        "instruction": "Can you provide the total hours Sophia worked on Vertex?",
+        "response": "Sophia worked on Vertex for a total of 46 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Jackson has been involved in the following projects: Nexus where they worked week1: 20hrs, week2: 18hrs.",
+        "instruction": "Can you provide the total hours Jackson worked on Nexus?",
+        "response": "Jackson worked on Nexus for a total of 38 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mia has been involved in the following projects: Horizon where they worked week1: 17hrs, week2: 16hrs.",
+        "instruction": "Can you provide the total hours Mia worked on Horizon?",
+        "response": "Mia worked on Horizon for a total of 33 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Lucas has been involved in the following projects: Quest where they worked week1: 14hrs, week2: 20hrs.",
+        "instruction": "Can you provide the total hours Lucas worked on Quest?",
+        "response": "Lucas worked on Quest for a total of 34 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Amelia has been involved in the following projects: Vertex where they worked week1: 18hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Amelia worked on Vertex?",
+        "response": "Amelia worked on Vertex for a total of 37 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Logan has been involved in the following projects: Nexus where they worked week1: 22hrs.",
+        "instruction": "Can you provide the total hours Logan worked on Nexus?",
+        "response": "Logan worked on Nexus for a total of 22 hours over 1 week.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Evelyn has been involved in the following projects: Quest where they worked week1: 16hrs, week2: 15hrs.",
+        "instruction": "Can you provide the total hours Evelyn worked on Quest?",
+        "response": "Evelyn worked on Quest for a total of 31 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Lucas has been involved in the following projects: Horizon where they worked week1: 10hrs, week2: 12hrs, week3: 15hrs.",
+        "instruction": "Can you provide the total hours Lucas worked on Horizon?",
+        "response": "Lucas worked on Horizon for a total of 37 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Harper has been involved in the following projects: Summit where they worked week1: 17hrs, week2: 13hrs, week3: 19hrs.",
+        "instruction": "Can you provide the total hours Harper worked on Summit?",
+        "response": "Harper worked on Summit for a total of 49 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Benjamin has been involved in the following projects: Nexus where they worked week1: 10hrs, week2: 14hrs.",
+        "instruction": "Can you provide the total hours Benjamin worked on Nexus?",
+        "response": "Benjamin worked on Nexus for a total of 24 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ella has been involved in the following projects: Quest where they worked week1: 14hrs, week2: 12hrs, week3: 17hrs.",
+        "instruction": "Can you provide the total hours Ella worked on Quest?",
+        "response": "Ella worked on Quest for a total of 43 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Henry has been involved in the following projects: Horizon where they worked week1: 19hrs, week2: 18hrs.",
+        "instruction": "Can you provide the total hours Henry worked on Horizon?",
+        "response": "Henry worked on Horizon for a total of 37 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Alexander has been involved in the following projects: Summit where they worked week1: 14hrs, week2: 15hrs.",
+        "instruction": "Can you provide the total hours Alexander worked on Summit?",
+        "response": "Alexander worked on Summit for a total of 29 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Scarlett has been involved in the following projects: Vertex where they worked week1: 18hrs, week2: 17hrs.",
+        "instruction": "Can you provide the total hours Scarlett worked on Vertex?",
+        "response": "Scarlett worked on Vertex for a total of 35 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Leo has been involved in the following projects: Nexus where they worked week1: 15hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Leo worked on Nexus?",
+        "response": "Leo worked on Nexus for a total of 34 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Grace has been involved in the following projects: Quest where they worked week1: 12hrs, week2: 14hrs, week3: 17hrs.",
+        "instruction": "Can you provide the total hours Grace worked on Quest?",
+        "response": "Grace worked on Quest for a total of 43 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Daniel has been involved in the following projects: Horizon where they worked week1: 20hrs, week2: 18hrs.",
+        "instruction": "Can you provide the total hours Daniel worked on Horizon?",
+        "response": "Daniel worked on Horizon for a total of 38 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Layla has been involved in the following projects: Summit where they worked week1: 18hrs, week2: 16hrs.",
+        "instruction": "Can you provide the total hours Layla worked on Summit?",
+        "response": "Layla worked on Summit for a total of 34 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Aiden has been involved in the following projects: Nexus where they worked week1: 10hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Aiden worked on Nexus?",
+        "response": "Aiden worked on Nexus for a total of 29 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Chloe has been involved in the following projects: Vertex where they worked week1: 12hrs, week2: 16hrs, week3: 18hrs.",
+        "instruction": "Can you provide the total hours Chloe worked on Vertex?",
+        "response": "Chloe worked on Vertex for a total of 46 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Gabriel has been involved in the following projects: Quest where they worked week1: 15hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Gabriel worked on Quest?",
+        "response": "Gabriel worked on Quest for a total of 34 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Aria has been involved in the following projects: Horizon where they worked week1: 17hrs, week2: 18hrs.",
+        "instruction": "Can you provide the total hours Aria worked on Horizon?",
+        "response": "Aria worked on Horizon for a total of 35 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Wyatt has been involved in the following projects: Summit where they worked week1: 16hrs, week2: 14hrs.",
+        "instruction": "Can you provide the total hours Wyatt worked on Summit?",
+        "response": "Wyatt worked on Summit for a total of 30 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Victoria has been involved in the following projects: Nexus where they worked week1: 14hrs, week2: 17hrs.",
+        "instruction": "Can you provide the total hours Victoria worked on Nexus?",
+        "response": "Victoria worked on Nexus for a total of 31 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Eli has been involved in the following projects: Quest where they worked week1: 13hrs, week2: 15hrs, week3: 18hrs.",
+        "instruction": "Can you provide the total hours Eli worked on Quest?",
+        "response": "Eli worked on Quest for a total of 46 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Zoe has been involved in the following projects: Horizon where they worked week1: 10hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Zoe worked on Horizon?",
+        "response": "Zoe worked on Horizon for a total of 29 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User John has been involved in the following projects: Vertex where they worked week1: 15hrs, week2: 18hrs, week3: 20hrs.",
+        "instruction": "Can you provide the total hours John worked on Vertex?",
+        "response": "John worked on Vertex for a total of 53 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Nora has been involved in the following projects: Quest where they worked week1: 13hrs, week2: 17hrs.",
+        "instruction": "Can you provide the total hours Nora worked on Quest?",
+        "response": "Nora worked on Quest for a total of 30 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User David has been involved in the following projects: Nexus where they worked week1: 20hrs, week2: 18hrs.",
+        "instruction": "Can you provide the total hours David worked on Nexus?",
+        "response": "David worked on Nexus for a total of 38 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Isla has been involved in the following projects: Horizon where they worked week1: 14hrs, week2: 15hrs.",
+        "instruction": "Can you provide the total hours Isla worked on Horizon?",
+        "response": "Isla worked on Horizon for a total of 29 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Matthew has been involved in the following projects: Summit where they worked week1: 19hrs, week2: 20hrs.",
+        "instruction": "Can you provide the total hours Matthew worked on Summit?",
+        "response": "Matthew worked on Summit for a total of 39 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Mila has been involved in the following projects: Quest where they worked week1: 12hrs, week2: 14hrs.",
+        "instruction": "Can you provide the total hours Mila worked on Quest?",
+        "response": "Mila worked on Quest for a total of 26 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Ethan has been involved in the following projects: Vertex where they worked week1: 18hrs, week2: 17hrs.",
+        "instruction": "Can you provide the total hours Ethan worked on Vertex?",
+        "response": "Ethan worked on Vertex for a total of 35 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Emily has been involved in the following projects: Nexus where they worked week1: 11hrs, week2: 19hrs.",
+        "instruction": "Can you provide the total hours Emily worked on Nexus?",
+        "response": "Emily worked on Nexus for a total of 30 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Samuel has been involved in the following projects: Summit where they worked week1: 14hrs, week2: 16hrs.",
+        "instruction": "Can you provide the total hours Samuel worked on Summit?",
+        "response": "Samuel worked on Summit for a total of 30 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Madison has been involved in the following projects: Quest where they worked week1: 18hrs, week2: 19hrs, week3: 16hrs.",
+        "instruction": "Can you provide the total hours Madison worked on Quest?",
+        "response": "Madison worked on Quest for a total of 53 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Carter has been involved in the following projects: Nexus where they worked week1: 15hrs, week2: 17hrs.",
+        "instruction": "Can you provide the total hours Carter worked on Nexus?",
+        "response": "Carter worked on Nexus for a total of 32 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Camila has been involved in the following projects: Horizon where they worked week1: 19hrs, week2: 17hrs.",
+        "instruction": "Can you provide the total hours Camila worked on Horizon?",
+        "response": "Camila worked on Horizon for a total of 36 hours over 2 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Jayden has been involved in the following projects: Vertex where they worked week1: 18hrs, week2: 15hrs, week3: 19hrs.",
+        "instruction": "Can you provide the total hours Jayden worked on Vertex?",
+        "response": "Jayden worked on Vertex for a total of 52 hours over 3 weeks.",
+        "category": "summarization"
+    },
+    {
+        "context": "User Abigail has been involved in the following projects: Quest where they worked week1: 12hrs, week2: 13hrs.",
+        "instruction": "Can you provide the total hours Abigail worked on Quest?",
+        "response": "Abigail worked on Quest for a total of 25 hours over 2 weeks.",
+        "category": "summarization"
+    }
+
+
+]
