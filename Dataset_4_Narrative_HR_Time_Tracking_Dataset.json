@@ -1,5 +1,125 @@
- [
+
     [
+        {
+            "context": "User Quinn has week1: 12hrs, week2: 11hrs.",
+            "instruction": "Calculate the total hours Quinn worked. 12hrs + 11hrs",
+            "response": "Quinn worked a total of 23 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Rachel has week1: 13hrs, week2: 14hrs, week3: 12hrs.",
+            "instruction": "Calculate the total hours Rachel worked. 13hrs + 14hrs + 12hrs",
+            "response": "Rachel worked a total of 39 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Sam has week1: 16hrs, week2: 15hrs.",
+            "instruction": "Calculate the total hours Sam worked. 16hrs + 15hrs",
+            "response": "Sam worked a total of 31 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Tina has week1: 8hrs, week2: 9hrs.",
+            "instruction": "Calculate the total hours Tina worked. 8hrs + 9hrs",
+            "response": "Tina worked a total of 17 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Ugo has week1: 14hrs, week2: 13hrs, week3: 15hrs.",
+            "instruction": "Calculate the total hours Ugo worked. 14hrs + 13hrs + 15hrs",
+            "response": "Ugo worked a total of 42 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Vicky has week1: 17hrs, week2: 18hrs.",
+            "instruction": "Calculate the total hours Vicky worked. 17hrs + 18hrs",
+            "response": "Vicky worked a total of 35 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Walt has week1: 10hrs, week2: 11hrs.",
+            "instruction": "Calculate the total hours Walt worked. 10hrs + 11hrs",
+            "response": "Walt worked a total of 21 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Xena has week1: 15hrs, week2: 14hrs, week3: 13hrs.",
+            "instruction": "Calculate the total hours Xena worked. 15hrs + 14hrs + 13hrs",
+            "response": "Xena worked a total of 42 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Yara has week1: 9hrs, week2: 8hrs.",
+            "instruction": "Calculate the total hours Yara worked. 9hrs + 8hrs",
+            "response": "Yara worked a total of 17 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Zane has week1: 20hrs, week2: 19hrs.",
+            "instruction": "Calculate the total hours Zane worked. 20hrs + 19hrs",
+            "response": "Zane worked a total of 39 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Amy has week1: 12hrs, week2: 13hrs.",
+            "instruction": "Calculate the total hours Amy worked. 12hrs + 13hrs",
+            "response": "Amy worked a total of 25 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Bob has week1: 14hrs, week2: 15hrs, week3: 16hrs.",
+            "instruction": "Calculate the total hours Bob worked. 14hrs + 15hrs + 16hrs",
+            "response": "Bob worked a total of 45 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Cara has week1: 11hrs, week2: 12hrs.",
+            "instruction": "Calculate the total hours Cara worked. 11hrs + 12hrs",
+            "response": "Cara worked a total of 23 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Dean has week1: 9hrs, week2: 8hrs.",
+            "instruction": "Calculate the total hours Dean worked. 9hrs + 8hrs",
+            "response": "Dean worked a total of 17 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Elle has week1: 20hrs, week2: 22hrs.",
+            "instruction": "Calculate the total hours Elle worked. 20hrs + 22hrs",
+            "response": "Elle worked a total of 42 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Fred has week1: 13hrs, week2: 12hrs, week3: 15hrs.",
+            "instruction": "Calculate the total hours Fred worked. 13hrs + 12hrs + 15hrs",
+            "response": "Fred worked a total of 40 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Gina has week1: 14hrs, week2: 15hrs.",
+            "instruction": "Calculate the total hours Gina worked. 14hrs + 15hrs",
+            "response": "Gina worked a total of 29 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Hank has week1: 16hrs, week2: 17hrs.",
+            "instruction": "Calculate the total hours Hank worked. 16hrs + 17hrs",
+            "response": "Hank worked a total of 33 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Iris has week1: 7hrs, week2: 9hrs, week3: 8hrs.",
+            "instruction": "Calculate the total hours Iris worked. 7hrs + 9hrs + 8hrs",
+            "response": "Iris worked a total of 24 hours.",
+            "category": "addition"
+        },
+        {
+            "context": "User Jon has week1: 10hrs, week2: 11hrs.",
+            "instruction": "Calculate the total hours Jon worked. 10hrs + 11hrs",
+            "response": "Jon worked a total of 21 hours.",
+            "category": "addition"
+        },
         {
             "context": "User Alex has week1: 12hrs, week2: 13hrs.",
             "instruction": "Calculate the total hours Alex worked. 12hrs + 13hrs",
@@ -247,7 +367,5 @@
             "category": "addition"
         }
     ]
-    
-    
-    ]
+
     
