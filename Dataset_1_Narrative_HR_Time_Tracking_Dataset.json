@@ -1,7 +1,188 @@
-[
+
+    [
+        {
+            "context": "User Alex participated in three projects: Apex where they logged week1: 20hrs, week2: 22hrs, Altitude where they logged week4: 15hrs, and Summit where they logged week5: 18hrs.",
+            "instruction": "Can you list the projects Alex has worked on?",
+            "response": "Alex worked on Apex, Altitude, and Summit.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Casey has been involved in the project called Catalyst during weeks 2 and 3 for 16 and 14 hours respectively.",
+            "instruction": "What project has Casey been working on recently?",
+            "response": "Casey has been working on the Catalyst project.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Jordan has contributed to several projects including Keystone for 10 hours in week1, Pipeline for 25 hours across weeks 2 and 3.",
+            "instruction": "What projects has Jordan contributed to?",
+            "response": "Jordan has contributed to Keystone and Pipeline.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Taylor worked on the project Nimbus for the first four weeks of the quarter, logging a total of 40 hours.",
+            "instruction": "Which project did Taylor work on in the first quarter?",
+            "response": "Taylor worked on the Nimbus project.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Morgan was assigned to projects Horizon and Vertex, dedicating 30 and 25 hours respectively over the past month.",
+            "instruction": "What projects has Morgan worked on in the past month?",
+            "response": "Morgan worked on Horizon and Vertex.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Bailey has been busy with projects Gateway, which took 15 hours in week 3, and Link, which took 18 hours in week 4.",
+            "instruction": "List the projects Bailey has been working on.",
+            "response": "Bailey has been working on Gateway and Link.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Harper has participated in the projects Terra for 12 hours and Luna for 20 hours during the current month.",
+            "instruction": "Which projects has Harper participated in this month?",
+            "response": "Harper participated in Terra and Luna.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Reese recently contributed 25 hours to the project called Beacon.",
+            "instruction": "What project has Reese recently worked on?",
+            "response": "Reese recently worked on the Beacon project.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Quinn spent the last two weeks working on the projects Echo and Signal, logging 18 and 22 hours respectively.",
+            "instruction": "Can you list the projects Quinn has been working on?",
+            "response": "Quinn has been working on Echo and Signal.",
+            "category": "sumarization"
+        },
+        {
+            "context": "User Skylar has been involved in projects Vortex where they logged 20 hours in week 2 and Cyclone where they logged 15 hours in week 3.",
+            "instruction": "Which projects has Skylar worked on recently?",
+            "response": "Skylar worked on Vortex and Cyclone.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Drew has been actively involved in projects called Zenith and Crest, dedicating 22 and 18 hours respectively.",
+            "instruction": "What projects has Drew been actively involved in?",
+            "response": "Drew has been actively involved in Zenith and Crest.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Riley spent considerable time on the project Atlas, logging in total 35 hours over the last month.",
+            "instruction": "Can you tell me what project Riley spent time on last month?",
+            "response": "Riley spent time on the Atlas project last month.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Avery worked on the projects called Venture and Quest during the last quarter, with 30 and 24 hours respectively.",
+            "instruction": "What projects has Avery worked on during the last quarter?",
+            "response": "Avery worked on Venture and Quest.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Jamie has been part of the projects Pioneer and Frontier, dedicating 20 and 15 hours respectively over the recent weeks.",
+            "instruction": "Which projects has Jamie been part of recently?",
+            "response": "Jamie has been part of Pioneer and Frontier.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Robin spent the last week working on projects named Origin and Source, where they logged 18 and 22 hours respectively.",
+            "instruction": "List the projects Robin worked on last week.",
+            "response": "Robin worked on Origin and Source.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Phoenix has been engaged in the projects Orbit and Sphere, dedicating 12 and 16 hours respectively over the past weeks.",
+            "instruction": "What projects has Phoenix been engaged in?",
+            "response": "Phoenix has been engaged in Orbit and Sphere.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Sage has been working on projects Zen and Karma, logging 20 and 15 hours respectively during this period.",
+            "instruction": "Can you tell me which projects Sage has been working on?",
+            "response": "Sage has been working on Zen and Karma.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Kendall has contributed to the projects called Peak and Crest, dedicating 17 and 19 hours respectively.",
+            "instruction": "What projects has Kendall contributed to?",
+            "response": "Kendall has contributed to Peak and Crest.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Jordan spent last month working on the projects Echo and Signal, logging 18 and 22 hours respectively.",
+            "instruction": "Which projects did Jordan work on last month?",
+            "response": "Jordan worked on Echo and Signal.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Taylor was involved in projects called Nimbus and Cloud, with a total of 40 hours spent during the quarter.",
+            "instruction": "List the projects Taylor was involved in during the quarter.",
+            "response": "Taylor was involved in Nimbus and Cloud.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Morgan participated in the projects Gateway and Link, dedicating 15 and 18 hours respectively over the recent weeks.",
+            "instruction": "What projects has Morgan participated in recently?",
+            "response": "Morgan participated in Gateway and Link.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Bailey has been busy with the project Catalyst, logging a total of 36 hours over the past two weeks.",
+            "instruction": "Which project has Bailey been busy with?",
+            "response": "Bailey has been busy with the Catalyst project.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Harper spent the last month working on projects Terra and Luna, dedicating 12 and 20 hours respectively.",
+            "instruction": "Can you list the projects Harper worked on last month?",
+            "response": "Harper worked on Terra and Luna.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Reese was involved in a project called Beacon, contributing 25 hours in the recent weeks.",
+            "instruction": "What project was Reese involved in recently?",
+            "response": "Reese was involved in the Beacon project.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Quinn has been working on the projects Echo and Signal, logging 18 and 22 hours respectively.",
+            "instruction": "List the projects Quinn has been working on recently.",
+            "response": "Quinn has been working on Echo and Signal.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Skylar participated in projects Vortex and Cyclone, dedicating 20 and 15 hours respectively over the past weeks.",
+            "instruction": "Which projects has Skylar participated in?",
+            "response": "Skylar participated in Vortex and Cyclone.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Drew has contributed to the projects Zenith and Crest, dedicating 22 and 18 hours respectively.",
+            "instruction": "What projects has Drew been involved in?",
+            "response": "Drew has been involved in Zenith and Crest.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Riley spent last month working on the project Atlas, logging 35 hours in total.",
+            "instruction": "Which project did Riley work on last month?",
+            "response": "Riley worked on the Atlas project.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Avery was involved in the projects called Venture and Quest during the last quarter, dedicating 30 and 24 hours respectively.",
+            "instruction": "Can you tell me what projects Avery was involved in during the last quarter?",
+            "response": "Avery was involved in Venture and Quest.",
+            "category": "summarization"
+        },
+        {
+            "context": "User Jamie participated in the projects Pioneer and Frontier, logging 20 and 15 hours respectively over the recent weeks.",
+            "instruction": "List the projects Jamie has participated in recently.",
+            "response": "Jamie participated in Pioneer and Frontier.",
+            "category": "summarization"
+        },
     {
         "context": "User Sophia has been involved in the following projects: Horizon where they worked week1: 30hrs, week2: 14hrs, week3: 25hrs. ",
-        "instruction": "Can you provide the total hours Mason worked on Summit?",
+        "instruction": "Can you provide the total hours Sophia worked on Horizon?",
         "response": "Sophia worked on Quest for a total of 68 hours over 2 weeks.",
         "category": "summarization"
     },
