@@ -2,10 +2,21 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Replace 'your_model_directory' with the path to your model's directory
-model_name_or_path = r"C:\Users\spite\Documents\FT-Llama2-HR_Chatbot\results\final_merged_checkpoint" 
-tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
-model = AutoModelForCausalLM.from_pretrained(model_name_or_path)
+model_path = r"C:\Users\spite\Documents\FT-Llama2-HR_Chatbot\results\final_merged_checkpoint" 
+tokenizer = AutoTokenizer.from_pretrained(model_path)
+model = AutoModelForCausalLM.from_pretrained(model_path)
 
+
+# %% [markdown]
+# untrained model
+
+# %%
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+# Replace 'your_model_directory' with the path to your model's directory
+model_path = "meta-llama/Llama-2-7b-hf"
+tokenizer = AutoTokenizer.from_pretrained(model_path)
+model = AutoModelForCausalLM.from_pretrained(model_path)
 
 # %%
 def ask_model(question, passage, max_length=200):
@@ -51,21 +62,45 @@ def ask_model(question, passage, max_length=200):
 
 
 # %% [markdown]
-# "context": "User Jayden has been involved in the following projects: Vertex where they worked week1: 18hrs, week2: 15hrs, week3: 19hrs.",
-#         "instruction": "Can you provide the total hours Jayden worked on Vertex?",
-#         "response": "Jayden worked on Vertex for a total of 52 hours over 3 weeks.",
-#         "category": "summarization"
+# Test 1
+# passage = “Over the past three weeks, several users have been involved in multiple projects.User Noah has been involved in the following projects: Nature project where they worked week 1: 11 hours, week 2: 21 hours, and week 3: 20 hours. For the Harmony project, Noah worked 21 hours in week 1 and 12 hours in week 2. Noah did not work on the Harmony project in week 3. User Leah has contributed to the following projects: Fusion where she worked week 1: 15 hours, week 2: 18 hours, and week 3: 22 hours. In the Pulse project, Leah worked 10 hours in week 1 and 16 hours in week 2, but did not contribute any hours in week 3
+# 
+# 
+# Question =  Can you calculate the total hours Noah worked on Nature project?
 
 # %% [markdown]
-# "context": "User Abigail has been involved in the following projects: Quest where they worked week1: 12hrs, week2: 13hrs.",
-#         "instruction": "Can you provide the total hours Abigail worked on Quest?",
-#         "response": "Abigail worked on Quest for a total of 25 hours over 2 weeks.",
-#         "category": "summarization"
+# Test 2
+# passage = “Over the past three weeks, several users have been involved in multiple projects.User Noah has been involved in the following projects: Nature project where they worked week 1: 11 hours, week 2: 21 hours, and week 3: 20 hours. For the Harmony project, Noah worked 21 hours in week 1 and 12 hours in week 2. Noah did not work on the Harmony project in week 3. User Leah has contributed to the following projects: Fusion where she worked week 1: 15 hours, week 2: 18 hours, and week 3: 22 hours. In the Pulse project, Leah worked 10 hours in week 1 and 16 hours in week 2, but did not contribute any hours in week 3
+# 
+# 
+# Question =  List the projects Leah contributed too please?
+
+# %% [markdown]
+# Test 3
+# passage = "User Fiona has been involved in the following projects: Zenith where they worked week1: 12hrs, week2: 14hrs. Apex where they worked week1: 16hrs, week2: 22hrs.",
+# 
+# 
+# Question = Can you list all the projects Fiona was involved with please?
+# 
+
+# %% [markdown]
+# Test 4
+# passage = "User Leah has contributed to the following projects: Fusion where she worked week 1: 15 hours, week 2: 18 hours, and week 3: 22 hours. In the Pulse project, Leah worked 10 hours in week 1 and 16 hours in week 2, but did not contribute any hours in week 3 ",
+# 
+# 
+# Question =  "Calculate the total hours Leah contributed to the Fusion project,please?"
+
+# %% [markdown]
+# Test 5
+# passage = "User Abigail has been involved in the following projects: Quest where they worked week1: 12hrs, week2: 13hrs.User Jayden has been involved in the following projects: Vertex where they worked week1: 18hrs, week2: 15hrs, week3: 19hrs.",
+# 
+# question =  "in which projcts did Jayden contributed to please?"
 
 # %%
 # Define the passage and question
-passage = "Paris is the capital city of France"
-question = "what is the capital city of France, please?"
+passage = "Over the past three weeks, several users have been involved in multiple projects.User Noah has been involved in the following projects: Nature project where they worked week 1: 11 hours, week 2: 21 hours, and week 3: 20 hours. For the Harmony project, Noah worked 21 hours in week 1 and 12 hours in week 2. Noah did not work on the Harmony project in week 3. User Leah has contributed to the following projects: Fusion where she worked week 1: 15 hours, week 2: 18 hours, and week 3: 22 hours. In the Pulse project, Leah worked 10 hours in week 1 and 16 hours in week 2, but did not contribute any hours in week 3",
+
+question =  "Can you calculate the total hours Noah worked on Nature project?"
 
 # Call the updated ask_model function with both the question and passage
 response = ask_model(question,passage)
@@ -73,17 +108,71 @@ print(response)
 
 
 # %%
-def main():
-    print("Type 'exit' to quit.")
-    while True:
-        question = input("Ask a question: ")
-        if question.lower() == 'exit':
-            break
-        response = ask_model(question)
-        print("Answer:", response)
+# Define the passage and question
+passage = "Over the past three weeks, several users have been involved in multiple projects.User Noah has been involved in the following projects: Nature project where they worked week 1: 11 hours, week 2: 21 hours, and week 3: 20 hours. For the Harmony project, Noah worked 21 hours in week 1 and 12 hours in week 2. Noah did not work on the Harmony project in week 3. User Leah has contributed to the following projects: Fusion where she worked week 1: 15 hours, week 2: 18 hours, and week 3: 22 hours. In the Pulse project, Leah worked 10 hours in week 1 and 16 hours in week 2, but did not contribute any hours in week 3",
 
+question =  "List the projects Leah contributed too please?"
+
+# Call the updated ask_model function with both the question and passage
+response = ask_model(question,passage)
+print(response)
+
+# %%
+# Define the passage and question
+passage =  "User Fiona has been involved in the following projects: Zenith where they worked week1: 12hrs, week2: 14hrs. Apex where they worked week1: 16hrs, week2: 22hrs.",
+
+question =  "Can you list all the projects Fiona was involved with please?"
+
+# Call the updated ask_model function with both the question and passage
+response = ask_model(question,passage)
+print(response)
+
+# %%
+# Define the passage and question
+passage =  "User Leah has contributed to the following projects: Fusion where she worked week 1: 15 hours, week 2: 18 hours, and week 3: 22 hours. In the Pulse project, Leah worked 10 hours in week 1 and 16 hours in week 2, but did not contribute any hours in week 3 ",
+
+
+question =  "Calculate the total hours Leah contributed to the Fusion project,please?"
+
+# Call the updated ask_model function with both the question and passage
+response = ask_model(question,passage)
+print(response)
+
+# %%
+# Define the passage and question
+passage = "User Abigail has been involved in the following projects: Quest where they worked week1: 12hrs, week2: 13hrs.User Jayden has been involved in the following projects: Vertex where they worked week1: 18hrs, week2: 15hrs, week3: 19hrs.",
+
+question =  "in which projcts did Jayden contributed to please?"
+
+# Call the updated ask_model function with both the question and passage
+response = ask_model(question,passage)
+print(response)
+
+# %% [markdown]
+# import torch
+# torch.cuda.empty_cache()
+
+# %%
+def main():
+    print("Welcome to the Chatbot Terminal! Please provide a question and a passage for analysis.\n")
+
+    # User input for the passage
+    passage = input("Enter your passage:\n")
+
+    # User input for the question
+    question = input("\nEnter your question:\n")
+
+    # Processing the question and passage
+    print("\nAnalyzing your question and calculating the response...\n")
+    response = ask_model(question, passage)
+    
+    # Displaying the response
+    print("Response:\n" + response)
+
+    print("\nThank you for using the Chatbot Terminal! If you have another question, please start again.")
+
+# Run the main function
 if __name__ == "__main__":
     main()
-
 
 

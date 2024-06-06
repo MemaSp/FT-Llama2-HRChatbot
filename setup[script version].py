@@ -76,7 +76,7 @@ def load_model(model_name, bnb_config):
 from datasets import load_dataset
 
 # Path to the local dataset file
-local_dataset_path = r'C:\Users\spite\Documents\FT-Llama2-HR_Chatbot\Dataset_4_Narrative_HR_Time_Tracking_Dataset.json'
+local_dataset_path = r'C:\Users\spite\Documents\FT-Llama2-HR_Chatbot\Dataset_1_Narrative_HR_Time_Tracking_Dataset.json'
 
 # Load the dataset from the local file
 dataset = load_dataset('json', data_files={'train': local_dataset_path}, split='train')
@@ -98,14 +98,6 @@ dataset = load_dataset(dolly_dataset, split="train")
 
 # %% [markdown]
 # 3rd Dataset
-
-# %%
-from datasets import load_dataset
-
-# New instruction dataset
-drop_dataset = "ucinlp/drop"
-
-dataset = load_dataset(drop_dataset, split="train")
 
 # %%
 print(f'Number of prompts: {len(dataset)}')
@@ -195,102 +187,6 @@ def preprocess_dataset(tokenizer: AutoTokenizer, max_length: int, seed, dataset:
     dataset = dataset.shuffle(seed=seed)
 
     return dataset
-
-# %% [markdown]
-# For Dataset = drop
-
-# %%
-def create_prompt_formats(sample):
-    """
-    Format various fields of the sample ('passage', 'question', 'answers_spans')
-    Then concatenate them using two newline characters
-    """
-    INTRO_BLURB = "Below is a passage followed by a question. Write a response that appropriately answers the question."
-    INPUT_KEY = "### Passage:"
-    QUESTION_KEY = "### Question:"
-    RESPONSE_KEY = "### Response:"
-    END_KEY = "### End"
-    
-    # Extract answer from answer spans or default to an empty string
-    answer_text = sample['answers_spans'] if sample['answers_spans'] else 'No answer provided'
-
-    # Build the parts of the prompt using the sample data
-    blurb = f"{INTRO_BLURB}"
-    passage = f"{INPUT_KEY}\n{sample['passage']}"
-    question = f"{QUESTION_KEY}\n{sample['question']}"
-    answer = f"{RESPONSE_KEY}\n{answer_text}"
-    end = f"{END_KEY}"
-    
-    # Only include parts that are not None
-    parts = [part for part in [blurb, passage, question, answer, end] if part]
-    
-    # Join all parts into the final formatted prompt
-    formatted_prompt = "\n\n".join(parts)
-    
-    # Assign the formatted prompt back to the sample under a new key
-    sample["formatted_text"] = formatted_prompt
-    
-    return sample
-
-
-# SOURCE https://github.com/databrickslabs/dolly/blob/master/training/trainer.py
-def get_max_length(model):
-    conf = model.config
-    max_length = None
-    for length_setting in ["n_positions", "max_position_embeddings", "seq_length"]:
-        max_length = getattr(model.config, length_setting, None)
-        if max_length:
-            print(f"Found max lenth: {max_length}")
-            break
-    if not max_length:
-        max_length = 1024
-        print(f"Using default max length: {max_length}")
-    return max_length
-
-
-def preprocess_batch(batch, tokenizer, max_length):
-    """
-    Tokenizing a batch
-    """
-    return tokenizer(
-        batch["text"],
-        max_length=max_length,
-        truncation=True,
-    )
-
-
-# SOURCE https://github.com/databrickslabs/dolly/blob/master/training/trainer.py
-def preprocess_dataset(tokenizer, max_length, seed, dataset):
-    """Format & tokenize it so it is ready for training"""
-    print("Preprocessing dataset...")
-    
-    # Add prompt to each sample
-    dataset = dataset.map(create_prompt_formats)
-    
-    # Apply preprocessing to each batch of the dataset & and remove the original fields
-    def _preprocessing_function(batch):
-        return tokenizer(
-            batch['formatted_text'],
-            max_length=max_length,
-            truncation=True,
-            padding="max_length",
-            return_tensors="pt"
-        )
-    
-    dataset = dataset.map(
-        _preprocessing_function,
-        batched=True,
-        #remove_columns=['passage', 'question', 'answers_spans'],
-    )
-
-    # Filter out samples that have input_ids exceeding max_length
-    dataset = dataset.filter(lambda sample: len(sample["input_ids"]) < max_length)
-    
-    # Shuffle dataset
-    dataset = dataset.shuffle(seed=seed)
-
-    return dataset
-  
 
 # %% [markdown]
 # BitsAndBytesConfig -
@@ -523,7 +419,7 @@ def train(model, tokenizer, dataset, output_dir):
             per_device_train_batch_size=1,
             gradient_accumulation_steps=4,
             warmup_steps=2,
-            max_steps=50,
+            max_steps=70,
             learning_rate=2e-4,
             fp16=True,
             logging_steps=1,
